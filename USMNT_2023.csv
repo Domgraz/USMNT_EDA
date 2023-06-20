@@ -1,67 +1,69 @@
-Player,Position,Birthday,Age,Club,League,Market_Value
-Gabriel Slonina,GK,May-15-2004,19,Chelsea,EPL,8000000
-Matt Turner,GK,June-24-1994,28,Arsenal,EPL,5000000
-Zach Steffen,GK,April-2-1995,28,Middlesbrough,EFL Championship,4500000
-Sean Johnson,GK,May-31-1989,33,Toronto FC,MLS,1500000
-Ethan Horvath,GK,June-9-1995,27,Luton Town,EFL Championship,1000000
-Drake Callender,GK,October-7-1997,25,Inter Miami,MLS,800000
-Roman Celentano,GK,September-14-2000,22,FC Cincinnati,MLS,500000
-Cameron Carter-Vickers,CB,December-31-1997,25,Celtic,SPL,11000000
-Austin Trusty,CB,August-12-1998,24,Birmingham City,EFL Championship,9000000
-Mark McKenzie,CB,February-25-1999,24,Genk,Belgian Pro League,7000000
-Miles Robinson,CB,March-14-1997,26,Atlanta United,MLS,5000000
-Walker Zimmerman,CB,May-19-1993,30,Nashville SC,MLS,3500000
-Erik Palmer-Brown,CB,April-24-1997,26,Troyes,Ligue 1,3000000
-Aaron Long,CB,October-12-1992,30,LAFC,MLS,3000000
-James Sands,CB,July-6-2000,22,NYCFC,MLS,2500000
-Matt Miazga,CB,July-19-1995,27,FC Cincinnati,MLS,2000000
-Joshua Wynder,CB,May-2-2005,18,Louisville City,USL Championship,1200000
-Tim Ream,CB,October-5-1987,35,Fullham,EPL,1000000
-Sam Rogers,CB,May-17-1999,24,Rosenburg,Eliteserien,800000
-Jalen Neal,CB,August-24-2003,19,LA Galaxy,MLS,175000
-Antonee Robinson,LB,August-8-1997,25,Fullham,EPL,12000000
-Caleb Wiley,LB,December-22-2004,18,Atlanta United,MLS,4000000
-DeJuan Jones,LB,June-24-1997,25,New England Revolution,MLS,3500000
-John Tolkin,LB,July-31-2002,20,NYCRB,MLS,2500000
-Sam Vines,LB,May-31-1999,23,Royal Antwerp FC,Jupiler Pro League,2200000
-George Bello,LB,January-22-2002,21,Arm. Bielefeld,Bundesliga 2,1500000
-Jonathan Gomez,LB,September-1-2003,19,Real Sociedad B,Segunda Division,500000
-Joe Scally,RB,December-31-2002,20,Borussia Mochengladbach,Bundesliga ,12000000
-Sergino Dest,RB,November-3-2000,22,AC Milan,Serie A,12000000
-Reggie Cannon,RB,June-11-1998,24,Boavista,Primera Liga,4000000
-Bryan Reynolds,RB,June-28-2001,21,KVC Westerlo,Jupiler Pro League,2500000
-DeAndre Yedlin,RB,July-9-1993,29,Inter Miami,MLS,2000000
-Shaq Moore,RB,November-2-1996,26,Nashville SC,MLS,1500000
-Tyler Adams,CDM,February-14-1999,24,Leeds United,EPL,20000000
-Johnny Cardoso,CDM,September-20-2001,21,Internacional,Serie A (Brazil),3500000
-Kellyn Acosta,CDM,July-24-1995,27,LAFC,MLS,3000000
-Yunus Musah,CM,November-29-2002,20,Valencia,La Liga,22000000
-Weston McKennie,CM,August-28-1998,24,Leeds United,EPL,21000000
-Cristian Roldan,CM,June-3-1995,27,Seattle Sounders,MLS,6000000
-Taylor Booth,CM,May-31-2001,21,FC Utrecht,Eredivisie,6000000
-Jackson Yueill,CM,March-19-1997,26,San Jose Earthquakes,MLS,4000000
-Luca de le Torre,CM,May-23-1998,24,Celta,La Liga,3000000
-Alan Sonora,CM,August-3-1998,24,Juarez,Liga MX,2800000
-Eryk Williamson,CM,June-11-1997,25,Portland Timbers,MLS,2500000
-Aidan Morris,CM,November-16-2001,21,Columbus Crew,MLS,1500000
-Julian Gressel,CM,December-16-1993,29,Vancouver Whitecaps,MLS,2500000
-Brenden Aaronson,CAM,October-22-2000,22,Leeds United,EPL,30000000
-Gio Reyna,CAM,November-13-2002,20,Borussia Dortmund,Bundesliga,28000000
-Djordje Mihalovic,CAM,November-10-1998,24,AZ Alkmaar,Eredivisie,6000000
-Malik Tillman,CAM,May-28-2002,20,Rangers,SPL,4500000
-Paxten Aaronsen,CAM,August-26-2003,19,Eintracht Frankfurt,Bundesliga,4500000
-Paxton Pomykal,CAM,December-17-1999,23,FC Dallas,MLS,4000000
-Jordan Morris,LW,October-26-1994,28,Seattle Sounders,MLS,5500000
-Cade Cowell,LW ,October-14-2003,19,San Jose Earthquakes,MLS,5000000
-Christian Pulisic,LW,September-18-1998,24,Chelsea,EPL,32000000
-Tim Weah,RW,February-22-2000,23,Lille,Ligue 1,12000000
-Alex Zendejas,RW,February-7-1998,25,Club America,Liga MX,5000000
-Paul Arriola,RW,February-5-1995,28,FC Dallas,MLS,4000000
-Emmanuel Sabbi,RW,December-24-1997,25,Odense BK,Superligaen,600000
-Josh Sargent,CF,February-20-2003,23,Norwich City,EFL Championship,12000000
-Ricardo Pepi,CF,January-9-2003,20,FC Groningen,Eredivisie,9000000
-Jesus Ferreira,CF,December-24-2000,22,FC Dallas,MLS,8000000
-Daryl Dike,CF,June-3-2000,22,West Brom,EFL Championship,7000000
-Brandon Vasquez,CF,October-14-1998,24,FC Cincinnati,MLS,7000000
-Haji Wright,CF,March-27-1998,25,Antalyaspor,Super Lig,6000000
-Matthew Hoppe,CF,March-13-2001,22,Hibernian,SPL,1500000
+Player,Position,Birthday,Age,Club,League,Market_Value,Highest Market Value,League Appearances ,Goals Conceded,Clean Sheet,Yellow Cards,Red Cards,Starting Eleven %,Club Minutes %,Club Goals,Club Assists,Goal Participation %,Total Minutes,US Caps,US Goals,US Assists,US Total Minutes
+Christian Pulisic,LW,September-18-1998,24,Chelsea,EPL,32000000,60000000,24,0,0,1,0,21,24,1,1,5,1013,57,25,16,4194
+Brenden Aaronson,CAM,October-22-2000,22,Leeds United,EPL,30000000,30000000,36,0,0,2,0,74,70,1,3,8,2588,29,7,5,1662
+Gio Reyna,CAM,November-13-2002,20,Borussia Dortmund,Bundesliga,28000000,42000000,22,0,0,2,0,12,20,7,2,11,1016,17,4,3,1102
+Folarin Balogun,CF,July-3-2001,21,Stade Reims,Ligue 1,25000000,25000000,37,0,0,5,0,89,88,21,3,53,3146,2,1,0,151
+Weston McKennie,CM,August-28-1998,24,Leeds United,EPL,21000000,25000000,19,0,0,7,0,84,84,0,1,5,3038,42,11,5,3386
+Tyler Adams,CDM,February-14-1999,24,Leeds United,EPL,20000000,20000000,24,0,0,4,1,63,63,0,0,0,2292,36,1,1,2870
+Yunus Musah,CM,November-29-2002,20,Valencia,La Liga,18000000,25000000,33,0,0,10,1,68,62,0,2,5,2360,24,0,2,2014
+Antonee Robinson,LB,August-8-1997,25,Fullham,EPL,12000000,12000000,35,0,0,8,0,92,90,0,1,2,3283,33,2,5,2725
+Joe Scally,RB,December-31-2002,20,Borussia Mochengladbach,Bundesliga ,12000000,12000000,28,0,0,2,0,74,72,0,0,0,2375,4,0,0,335
+Sergino Dest,RB,November-3-2000,22,AC Milan,Serie A,12000000,30000000,8,0,0,0,0,6,11,0,0,0,635,25,2,4,1898
+Tim Weah,RW,February-22-2000,23,Lille,Ligue 1,12000000,15000000,29,0,0,2,0,47,51,0,2,3,1941,29,4,3,1978
+Josh Sargent,CF,February-20-2003,23,Norwich City,EFL Championship,12000000,12000000,40,0,0,1,0,80,76,13,2,26,3173,23,5,1,1313
+Cameron Carter-Vickers,CB,December-31-1997,25,Celtic,SPL,11000000,11000000,29,0,0,5,0,88,88,0,0,0,3510,12,0,0,876
+Auston Trusty,CB,August-12-1998,24,Birmingham City,EFL Championship,10000000,10000000,44,0,0,8,0,96,95,4,2,13,4320,1,0,0,101
+Chris Richards,CB,March-28-2000,23,Crystal Palace,EPL,10000000,12000000,9,0,0,0,0,11,13,0,0,0,598,10,1,0,620
+Ricardo Pepi,CF,January-9-2003,20,FC Groningen,Eredivisie,9000000,10000000,29,0,0,2,0,93,91,12,3,58,2746,16,7,3,883
+Gabriel Slonina,GK,May-15-2004,19,Chelsea,EPL,8000000,8000000,8,13,3,0,0,100,100,0,0,0,720,1,0,0,90
+Mark McKenzie,CB,February-25-1999,24,Genk,Belgian Pro League,8000000,8000000,30,0,0,4,0,88,88,1,0,1,3536,11,0,1,809
+Jesus Ferreira,CF,December-24-2000,22,FC Dallas,MLS,8000000,8000000,18,0,0,2,0,94,95,10,0,48,1626,18,8,4,946
+Daryl Dike,CF,June-3-2000,22,West Brom,EFL Championship,7000000,10000000,23,0,0,2,0,30,29,7,1,14,1334,9,3,0,532
+Brandon Vasquez,CF,October-14-1998,24,FC Cincinnati,MLS,7000000,7000000,17,0,0,2,0,94,94,4,1,19,1629,3,1,0,154
+Cristian Roldan,CM,June-3-1995,27,Seattle Sounders,MLS,6000000,6000000,9,0,0,0,0,44,44,2,0,8,796,32,0,2,1554
+Taylor Booth,CM,May-31-2001,21,FC Utrecht,Eredivisie,6000000,6000000,24,0,0,5,0,59,51,2,4,11,2061,2,0,0,44
+Djordje Mihalovic,CAM,November-10-1998,24,AZ Alkmaar,Eredivisie,6000000,6000000,15,0,0,2,0,25,30,1,1,5,576,6,1,0,337
+Haji Wright,CF,March-27-1998,25,Antalyaspor,Super Lig,6000000,6000000,28,0,0,1,0,75,73,15,3,39,2465,7,2,0,254
+Jordan Morris,LW,October-26-1994,28,Seattle Sounders,MLS,5500000,5500000,16,0,0,0,0,78,74,9,0,38,1282,52,11,8,2153
+Matt Turner,GK,June-24-1994,28,Arsenal,EPL,5000000,5000000,0,0,0,0,0,0,0,0,0,0,630,28,0,0,2550
+Miles Robinson,CB,March-14-1997,26,Atlanta United,MLS,5000000,5000000,17,0,0,1,0,89,91,0,1,3,1467,21,3,1,1852
+Cade Cowell,LW ,October-14-2003,19,San Jose Earthquakes,MLS,5000000,5000000,12,0,0,1,0,71,60,0,3,14,1005,3,0,0,149
+Alex Zendejas,RW,February-7-1998,25,Club America,Liga MX,5000000,5000000,12,0,0,1,0,53,42,3,2,14,2256,2,1,0,176
+Zach Steffen,GK,April-2-1995,28,Middlesbrough,EFL Championship,4500000,10000000,42,50,9,2,0,91,91,0,0,0,4050,29,0,0,2527
+Malik Tillman,CAM,May-28-2002,20,Rangers,SPL,4500000,4500000,28,0,0,4,0,67,65,10,4,17,2922,4,0,0,106
+Paxten Aaronsen,CAM,August-26-2003,19,Eintracht Frankfurt,Bundesliga,4500000,4500000,7,0,0,1,0,0,10,0,1,4,214,1,0,0,90
+Caleb Wiley,LB,December-22-2004,18,Atlanta United,MLS,4000000,4000000,14,0,0,1,0,67,60,3,2,14,1039,1,0,0,0
+Reggie Cannon,RB,June-11-1998,24,Boavista,Primera Liga,4000000,4000000,30,0,0,7,2,76,76,0,0,0,2586,28,1,4,1741
+Bryan Reynolds,RB,June-28-2001,21,KVC Westerlo,Jupiler Pro League,4000000,6000000,27,0,0,4,0,71,68,1,5,10,2622,3,0,0,162
+Jackson Yueill,CM,March-19-1997,26,San Jose Earthquakes,MLS,4000000,4000000,17,0,0,4,0,100,96,1,0,5,1554,16,0,1,948
+Paxton Pomykal,CAM,December-17-1999,23,FC Dallas,MLS,4000000,4000000,12,0,0,4,0,67,58,0,1,5,1028,3,0,0,69
+Paul Arriola,RW,February-5-1995,28,FC Dallas,MLS,4000000,4000000,12,0,0,1,0,61,54,0,2,10,881,50,10,8,2914
+Walker Zimmerman,CB,May-19-1993,30,Nashville SC,MLS,3500000,3500000,12,0,0,1,0,65,61,1,1,8,926,40,3,2,3081
+DeJuan Jones,LB,June-24-1997,25,New England Revolution,MLS,3500000,3500000,16,0,0,2,0,94,94,1,2,11,1440,2,0,0,118
+Johnny Cardoso,CDM,September-20-2001,21,Internacional,Serie A (Brazil),3500000,3500000,6,0,0,1,0,60,54,2,0,20,1651,7,0,0,170
+Erik Palmer-Brown,CB,April-24-1997,26,Troyes,Ligue 1,3000000,3000000,38,0,0,5,0,95,93,0,0,0,3193,4,0,0,174
+Aaron Long,CB,October-12-1992,30,LAFC,MLS,3000000,3500000,9,0,0,2,0,50,49,0,0,0,1203,32,3,2,2313
+Kellyn Acosta,CDM,July-24-1995,27,LAFC,MLS,3000000,3000000,10,0,0,2,0,57,53,0,0,0,1207,58,2,5,3568
+Luca de le Torre,CM,May-23-1998,24,Celta,La Liga,3000000,3000000,28,0,0,6,0,42,44,0,2,5,1613,13,0,5,611
+Alan Sonora,CM,August-3-1998,24,Juarez,Liga MX,2800000,3000000,8,0,0,1,0,25,31,0,1,13,330,3,0,0,128
+James Sands,CB,July-6-2000,22,NYCFC,MLS,2500000,4000000,16,0,0,1,0,100,97,0,0,0,3261,8,0,0,657
+John Tolkin,LB,July-31-2002,20,NYCRB,MLS,2500000,2500000,15,0,0,2,0,88,88,0,4,36,1560,1,0,0,81
+Eryk Williamson,CM,June-11-1997,25,Portland Timbers,MLS,2500000,2500000,6,0,0,2,0,35,35,0,1,5,530,6,0,1,267
+Julian Gressel,CM,December-16-1993,29,Vancouver Whitecaps,MLS,2500000,4500000,17,0,0,2,0,88,84,3,5,30,1681,2,0,1,71
+Matt Miazga,CB,July-19-1995,27,FC Cincinnati,MLS,2000000,3000000,17,0,0,4,0,100,100,0,1,4,1729,23,1,2,1742
+DeAndre Yedlin,RB,July-9-1993,29,Inter Miami,MLS,2000000,8000000,16,0,0,5,0,88,89,0,1,6,1628,78,0,8,4738
+Sam Vines,LB,May-31-1999,23,Royal Antwerp FC,Jupiler Pro League,1800000,3000000,15,0,0,1,0,44,41,1,1,3,1940,9,1,1,692
+Sean Johnson,GK,May-31-1989,33,Toronto FC,MLS,1500000,1800000,18,21,6,1,0,100,100,0,0,0,1710,12,0,0,854
+George Bello,LB,January-22-2002,21,Arm. Bielefeld,Bundesliga 2,1500000,4000000,21,0,0,1,0,17,25,0,0,0,980,7,0,0,431
+Shaq Moore,RB,November-2-1996,26,Nashville SC,MLS,1500000,1500000,17,0,0,3,0,100,100,0,3,12,1559,17,1,0,885
+Aidan Morris,CM,November-16-2001,21,Columbus Crew,MLS,1500000,1500000,17,0,0,4,0,100,98,3,2,14,1565,2,0,0,116
+Matthew Hoppe,CF,March-13-2001,22,Hibernian,SPL,1500000,4500000,7,0,0,0,0,30,30,1,2,21,852,8,1,1,491
+Joshua Wynder,CB,May-2-2005,18,Louisville City,USL Championship,1200000,1200000,6,0,0,0,0,38,38,0,0,0,471,0,0,0,0
+Ethan Horvath,GK,June-9-1995,27,Luton Town,EFL Championship,1000000,2000000,44,37,19,0,0,96,96,0,0,0,4620,8,0,0,637
+Tim Ream,CB,October-5-1987,35,Fullham,EPL,1000000,4000000,33,0,0,2,0,87,85,1,0,2,3080,50,1,4,3789
+Drake Callender,GK,October-7-1997,25,Inter Miami,MLS,800000,800000,17,24,2,0,0,100,100,0,0,0,1830,0,0,0,0
+Sam Rogers,CB,May-17-1999,24,Rosenburg,Eliteserien,800000,800000,11,0,0,2,0,100,98,0,0,0,1014,1,0,0,18
+Emmanuel Sabbi,RW,December-24-1997,25,Odense BK,Superligaen,600000,1000000,9,0,0,1,0,23,26,2,3,19,1359,1,0,0,25
+Roman Celentano,GK,September-14-2000,22,FC Cincinnati,MLS,500000,500000,17,16,8,1,0,100,100,0,0,0,1530,0,0,0,0
+Jonathan Gomez,LB,September-1-2003,19,Real Sociedad B,Segunda Division,500000,500000,28,0,0,5,0,66,62,1,0,2,2140,1,0,0,96
+Jalen Neal,CB,August-24-2003,19,LA Galaxy,MLS,175000,175000,16,0,0,3,0,88,90,1,0,7,1453,2,0,0,11
