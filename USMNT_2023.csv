@@ -1,21 +1,21 @@
 Player,Position,Birthday,Age,Club,League,Market_Value,Highest Market Value,League Appearances ,Goals Conceded,Clean Sheet,Yellow Cards,Red Cards,Starting Eleven %,Club Minutes %,Club Goals,Club Assists,Goal Participation %,Total Minutes,US Caps,US Goals,US Assists,US Total Minutes
-Christian Pulisic,LW,September-18-1998,24,Chelsea,EPL,32000000,60000000,24,0,0,1,0,21,24,1,1,5,1013,57,25,16,4194
-Brenden Aaronson,CAM,October-22-2000,22,Leeds United,EPL,30000000,30000000,36,0,0,2,0,74,70,1,3,8,2588,29,7,5,1662
-Gio Reyna,CAM,November-13-2002,20,Borussia Dortmund,Bundesliga,28000000,42000000,22,0,0,2,0,12,20,7,2,11,1016,17,4,3,1102
-Folarin Balogun,CF,July-3-2001,21,Stade Reims,Ligue 1,25000000,25000000,37,0,0,5,0,89,88,21,3,53,3146,2,1,0,151
-Weston McKennie,CM,August-28-1998,24,Leeds United,EPL,21000000,25000000,19,0,0,7,0,84,84,0,1,5,3038,42,11,5,3386
-Tyler Adams,CDM,February-14-1999,24,Leeds United,EPL,20000000,20000000,24,0,0,4,1,63,63,0,0,0,2292,36,1,1,2870
+Christian Pulisic,LW,September-18-1998,24,Chelsea,EPL,25000000,60000000,24,0,0,1,0,21,24,1,1,5,1013,57,25,16,4194
+Brenden Aaronson,CAM,October-22-2000,22,Leeds United,EPL,25000000,30000000,36,0,0,2,0,74,70,1,3,8,2588,29,7,5,1662
+Gio Reyna,CAM,November-13-2002,20,Borussia Dortmund,Bundesliga,25000000,42000000,22,0,0,2,0,12,20,7,2,11,1016,17,4,3,1102
+Folarin Balogun,CF,July-3-2001,21,Stade Reims,Ligue 1,30000000,30000000,37,0,0,5,0,89,88,21,3,53,3146,2,1,0,151
+Weston McKennie,CM,August-28-1998,24,Leeds United,EPL,18000000,25000000,19,0,0,7,0,84,84,0,1,5,3038,42,11,5,3386
+Tyler Adams,CDM,February-14-1999,24,Leeds United,EPL,18000000,20000000,24,0,0,4,1,63,63,0,0,0,2292,36,1,1,2870
 Yunus Musah,CM,November-29-2002,20,Valencia,La Liga,18000000,25000000,33,0,0,10,1,68,62,0,2,5,2360,24,0,2,2014
-Antonee Robinson,LB,August-8-1997,25,Fullham,EPL,12000000,12000000,35,0,0,8,0,92,90,0,1,2,3283,33,2,5,2725
-Joe Scally,RB,December-31-2002,20,Borussia Mochengladbach,Bundesliga ,12000000,12000000,28,0,0,2,0,74,72,0,0,0,2375,4,0,0,335
-Sergino Dest,RB,November-3-2000,22,AC Milan,Serie A,12000000,30000000,8,0,0,0,0,6,11,0,0,0,635,25,2,4,1898
-Tim Weah,RW,February-22-2000,23,Lille,Ligue 1,12000000,15000000,29,0,0,2,0,47,51,0,2,3,1941,29,4,3,1978
+Antonee Robinson,LB,August-8-1997,25,Fullham,EPL,15000000,15000000,35,0,0,8,0,92,90,0,1,2,3283,33,2,5,2725
+Joe Scally,RB,December-31-2002,20,Borussia Mochengladbach,Bundesliga,12000000,12000000,28,0,0,2,0,74,72,0,0,0,2375,4,0,0,335
+Sergino Dest,RB,November-3-2000,22,AC Milan,Serie A,10000000,30000000,8,0,0,0,0,6,11,0,0,0,635,25,2,4,1898
+Tim Weah,RW,February-22-2000,23,Lille,Ligue 1,14000000,15000000,29,0,0,2,0,47,51,0,2,3,1941,29,4,3,1978
 Josh Sargent,CF,February-20-2003,23,Norwich City,EFL Championship,12000000,12000000,40,0,0,1,0,80,76,13,2,26,3173,23,5,1,1313
 Cameron Carter-Vickers,CB,December-31-1997,25,Celtic,SPL,11000000,11000000,29,0,0,5,0,88,88,0,0,0,3510,12,0,0,876
 Auston Trusty,CB,August-12-1998,24,Birmingham City,EFL Championship,10000000,10000000,44,0,0,8,0,96,95,4,2,13,4320,1,0,0,101
 Chris Richards,CB,March-28-2000,23,Crystal Palace,EPL,10000000,12000000,9,0,0,0,0,11,13,0,0,0,598,10,1,0,620
 Ricardo Pepi,CF,January-9-2003,20,FC Groningen,Eredivisie,9000000,10000000,29,0,0,2,0,93,91,12,3,58,2746,16,7,3,883
-Gabriel Slonina,GK,May-15-2004,19,Chelsea,EPL,8000000,8000000,8,13,3,0,0,100,100,0,0,0,720,1,0,0,90
+Gabriel Slonina,GK,May-15-2004,19,Chelsea,EPL,9000000,8000000,8,13,3,0,0,100,100,0,0,0,720,1,0,0,90
 Mark McKenzie,CB,February-25-1999,24,Genk,Belgian Pro League,8000000,8000000,30,0,0,4,0,88,88,1,0,1,3536,11,0,1,809
 Jesus Ferreira,CF,December-24-2000,22,FC Dallas,MLS,8000000,8000000,18,0,0,2,0,94,95,10,0,48,1626,18,8,4,946
 Daryl Dike,CF,June-3-2000,22,West Brom,EFL Championship,7000000,10000000,23,0,0,2,0,30,29,7,1,14,1334,9,3,0,532
@@ -25,7 +25,7 @@ Taylor Booth,CM,May-31-2001,21,FC Utrecht,Eredivisie,6000000,6000000,24,0,0,5,0,
 Djordje Mihalovic,CAM,November-10-1998,24,AZ Alkmaar,Eredivisie,6000000,6000000,15,0,0,2,0,25,30,1,1,5,576,6,1,0,337
 Haji Wright,CF,March-27-1998,25,Antalyaspor,Super Lig,6000000,6000000,28,0,0,1,0,75,73,15,3,39,2465,7,2,0,254
 Jordan Morris,LW,October-26-1994,28,Seattle Sounders,MLS,5500000,5500000,16,0,0,0,0,78,74,9,0,38,1282,52,11,8,2153
-Matt Turner,GK,June-24-1994,28,Arsenal,EPL,5000000,5000000,0,0,0,0,0,0,0,0,0,0,630,28,0,0,2550
+Matt Turner,GK,June-24-1994,28,Arsenal,EPL,8000000,5000000,0,0,0,0,0,0,0,0,0,0,630,28,0,0,2550
 Miles Robinson,CB,March-14-1997,26,Atlanta United,MLS,5000000,5000000,17,0,0,1,0,89,91,0,1,3,1467,21,3,1,1852
 Cade Cowell,LW ,October-14-2003,19,San Jose Earthquakes,MLS,5000000,5000000,12,0,0,1,0,71,60,0,3,14,1005,3,0,0,149
 Alex Zendejas,RW,February-7-1998,25,Club America,Liga MX,5000000,5000000,12,0,0,1,0,53,42,3,2,14,2256,2,1,0,176
